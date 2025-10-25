@@ -1,0 +1,217 @@
+Інформація: Всього попереджень: 0, помилок: 2.
+Інформація: Обробка символу 'Q2:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Інформація: Обробка символу 'U2:Package_DIP:DIP-8_W7.62mm'.
+Інформація: Обробка символу 'R1:Resistor_SMD:R_0603_1608Metric'.
+Інформація: Обробка символу 'U3:Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm'.
+Інформація: Обробка символу 'J2:Connector_Hirose:Hirose_DF13-05P-1.25DSA_1x05_P1.25mm_Vertical'.
+Інформація: Обробка символу 'R2:'.
+Інформація: Обробка символу 'R4:Resistor_SMD:R_0603_1608Metric'.
+Інформація: Обробка символу 'J1:USB-A1HSW6:OST_USB-A1HSW6'.
+Інформація: Обробка символу 'R5:Resistor_SMD:R_0201_0603Metric'.
+Інформація: Обробка символу 'U1:Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm'.
+Інформація: Обробка символу 'D1:Diode_SMD:D_SOD-523'.
+Інформація: Обробка символу 'R7:'.
+Інформація: Обробка символу 'C1:Capacitor_SMD:C_0603_1608Metric'.
+Інформація: Обробка символу 'R6:Resistor_SMD:R_0603_1608Metric'.
+Під'єднано U1 вивід 6 до FEEDBACK.
+Під'єднано U1 вивід 7 до MOSFET.
+Під'єднано U1 вивід 12 до D+.
+Звʼязок додано unconnected-(U1-NC-Pad14).
+Updated R6 sheetname to '/'.
+Під'єднано U1 вивід 14 до unconnected-(U1-NC-Pad14).
+Під'єднано U1 вивід 16 до VCC.
+Звʼязок додано unconnected-(U1-UTx-Pad5).
+Updated R6 fields.
+Під'єднано U1 вивід 5 до unconnected-(U1-UTx-Pad5).
+Під'єднано U1 вивід 4 до unconnected-(U1-URx-Pad4).
+Звʼязок додано unconnected-(U1-NC-Pad17).
+Під'єднано U1 вивід 17 до unconnected-(U1-NC-Pad17).
+Звʼязок додано ADC.
+Під'єднано U1 вивід 1 до ADC.
+Під'єднано U1 вивід 11 до D-.
+Під'єднано U1 вивід 13 до GND.
+Під'єднано U1 вивід 2 до DAC.
+Під'єднано R5 вивід 2 до FEEDBACK.
+Додано U2 (посадкове місце 'Package_DIP:DIP-8_W7.62mm').
+Позначення REF** змінено на U2.
+У символу R6 змінилось посадкове місце з  на /df19e12e-5c1c-4706-97c0-fed3e3396aa8.
+Updated U1 footprint filters to 'QFN*1EP*4x4mm*P0.65mm*'.
+Під'єднано R6 вивід 2 до Net-(U3-VS).
+Звʼязок додано Net-(U3-VS).
+Додано U1 (посадкове місце 'Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm').
+Позначення REF** змінено на U1.
+Під'єднано R6 вивід 1 до VCC.
+Значення U1 змінено з QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm на MCP2221AxML.
+У символу U1 змінилось посадкове місце з  на /bf0bd61b-e2e8-4ae4-8859-28716fa18c31.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to '111test-task.kicad_sch'.
+Під'єднано U1 вивід 8 до Net-(J2-Pin_5).
+Звʼязок додано unconnected-(U1-VUSB-Pad10).
+Під'єднано U1 вивід 10 до unconnected-(U1-VUSB-Pad10).
+Updated R6 footprint filters to 'R_*'.
+Звʼязок додано unconnected-(U1-NC-Pad15).
+Під'єднано U1 вивід 15 до unconnected-(U1-NC-Pad15).
+Звʼязок додано unconnected-(U1-~{RST}-Pad3).
+Updated R6 sheetfile to '111test-task.kicad_sch'.
+Під'єднано U1 вивід 3 до unconnected-(U1-~{RST}-Pad3).
+Під'єднано U1 вивід 9 до Net-(J2-Pin_4).
+Звʼязок додано unconnected-(U1-URx-Pad4).
+Звʼязок додано unconnected-(U3-SH--Pad4).
+Під'єднано U3 вивід 3 до OUT_SH.
+Під'єднано U3 вивід 16 до SENSING.
+Під'єднано U3 вивід 1 до OUT_SH.
+Звʼязок додано unconnected-(U3-NC-Pad12).
+Під'єднано U3 вивід 12 до unconnected-(U3-NC-Pad12).
+Під'єднано U3 вивід 15 до GND.
+Під'єднано U3 вивід 18 до SENSING.
+Під'єднано U3 вивід 20 до SENSING.
+Під'єднано U3 вивід 10 до GND.
+Під'єднано U3 вивід 5 до OUT_SH.
+Під'єднано U3 вивід 11 до GND.
+Під'єднано U3 вивід 19 до SENSING.
+Під'єднано U3 вивід 2 до OUT_SH.
+Під'єднано U3 вивід 6 до GND.
+Під'єднано U3 вивід 4 до unconnected-(U3-SH--Pad4).
+Звʼязок додано unconnected-(U3-SH+-Pad17).
+Під'єднано U3 вивід 17 до unconnected-(U3-SH+-Pad17).
+Звʼязок додано unconnected-(U3-DNC1-Pad7).
+Під'єднано U3 вивід 7 до unconnected-(U3-DNC1-Pad7).
+Під'єднано U3 вивід 9 до Net-(U3-VS).
+Звʼязок додано unconnected-(U3-DNC2-Pad14).
+Під'єднано U3 вивід 14 до unconnected-(U3-DNC2-Pad14).
+Звʼязок додано unconnected-(U3-NC-Pad8).
+Під'єднано U3 вивід 8 до unconnected-(U3-NC-Pad8).
+
+
+Під'єднано U2 вивід 3 до DAC.
+У символу U2 змінилось посадкове місце з  на /564d7668-8f6e-46fb-92f9-7da0845f9c04.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 sheetfile to '111test-task.kicad_sch'.
+Updated U2 footprint filters to 'DIP*W7.62mm*'.
+Під'єднано U2 вивід 2 до GND.
+Під'єднано U2 вивід 6 до FEEDBACK.
+Звʼязок додано unconnected-(U2-NC-Pad5).
+Під'єднано U2 вивід 5 до unconnected-(U2-NC-Pad5).
+Під'єднано U2 вивід 4 до GND.
+Звʼязок додано unconnected-(U2-Flag-Pad8).
+Під'єднано U2 вивід 8 до unconnected-(U2-Flag-Pad8).
+Значення U2 змінено з DIP-8_W7.62mm на OPA551P.
+Під'єднано U2 вивід 7 до VCC.
+Звʼязок додано unconnected-(U2-NC-Pad1).
+Під'єднано U2 вивід 1 до unconnected-(U2-NC-Pad1).
+Додано U3 (посадкове місце 'Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm').
+Позначення REF** змінено на U3.
+Значення U3 змінено з TSSOP-20_4.4x6.5mm_P0.65mm на INA253.
+У символу U3 змінилось посадкове місце з  на /5419b543-14bd-4c9b-ba2c-b9bf3446fa13.
+Updated U3 fields.
+Updated U3 sheetname to '/'.
+Updated U3 sheetfile to '111test-task.kicad_sch'.
+Updated U3 footprint filters to 'TSSOP*4.4x6.5mm*P0.65mm*'.
+Під'єднано U3 вивід 13 до ADC.
+Додано J2 (посадкове місце 'Connector_Hirose:Hirose_DF13-05P-1.25DSA_1x05_P1.25mm_Vertical').
+Позначення REF** змінено на J1.
+Значення J1 змінено з OST_USB-A1HSW6 на USB-A1111.
+У символу J1 змінилось посадкове місце з  на /bd88f190-a832-44bb-ab63-f48f01e28dbc.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to '111test-task.kicad_sch'.
+Під'єднано J1 вивід 4 до GND.
+Звʼязок додано D+.
+Під'єднано J1 вивід 3 до D+.
+Під'єднано J1 вивід 1 до Net-(D1-A).
+Звʼязок додано D-.
+Під'єднано J1 вивід 2 до D-.
+Додано J1 (посадкове місце 'USB-A1HSW6:OST_USB-A1HSW6').
+Позначення REF** змінено на J2.
+Значення J2 змінено з Hirose_DF13-05P-1.25DSA_1x05_P1.25mm_Vertical на Conn_01x05_Pin.
+У символу J2 змінилось посадкове місце з  на /4a2e3cf4-53c5-4ef1-891b-d46e882c49db.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to '111test-task.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Звʼязок додано OUT_SH.
+Під'єднано J2 вивід 2 до OUT_SH.
+Під'єднано J2 вивід 3 до GND.
+Звʼязок додано Net-(J2-Pin_5).
+Під'єднано J2 вивід 5 до Net-(J2-Pin_5).
+Додано D1 (посадкове місце 'Diode_SMD:D_SOD-523').
+Додано C1 (посадкове місце 'Capacitor_SMD:C_0603_1608Metric').
+Позначення REF** змінено на C1.
+Значення C1 змінено з C_0603_1608Metric на C.
+У символу C1 змінилось посадкове місце з  на /d94810af-28a0-4732-a042-db81bd0994cb.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to '111test-task.kicad_sch'.
+Updated C1 footprint filters to 'C_*'.
+Звʼязок додано DAC.
+Під'єднано C1 вивід 1 до DAC.
+Звʼязок додано GND.
+Під'єднано C1 вивід 2 до GND.
+Звʼязок додано Net-(J2-Pin_4).
+Позначення REF** змінено на D1.
+Значення D1 змінено з D_SOD-523 на 1N4148WT.
+У символу D1 змінилось посадкове місце з  на /b01b6e3e-8f51-45ad-af12-445bc0e8fe60.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to '111test-task.kicad_sch'.
+Updated D1 footprint filters to 'D*SOD?523*'.
+Звʼязок додано VCC.
+Під'єднано D1 вивід 1 до VCC.
+Звʼязок додано Net-(D1-A).
+Під'єднано D1 вивід 2 до Net-(D1-A).
+Під'єднано R4 вивід 2 до Net-(Q2-G).
+Значення R6 змінено з R_0603_1608Metric на 10k.
+Під'єднано R1 вивід 2 до Net-(J2-Pin_5).
+Додано R4 (посадкове місце 'Resistor_SMD:R_0603_1608Metric').
+Позначення REF** змінено на R4.
+Значення R4 змінено з R_0603_1608Metric на 1k.
+У символу R4 змінилось посадкове місце з  на /3ba778b2-cb41-4002-a21c-b050d1770279.
+Updated R4 fields.
+Updated R4 sheetname to '/'.
+Updated R4 sheetfile to '111test-task.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Звʼязок додано MOSFET.
+Під'єднано R4 вивід 1 до MOSFET.
+Під'єднано R1 вивід 1 до VCC.
+Додано R5 (посадкове місце 'Resistor_SMD:R_0201_0603Metric').
+Позначення REF** змінено на R5.
+Значення R5 змінено з R_0201_0603Metric на 100.
+У символу R5 змінилось посадкове місце з  на /4668813d-64be-45ca-9806-5c54ab2f63ef.
+Updated R5 fields.
+Updated R5 sheetname to '/'.
+Updated R5 sheetfile to '111test-task.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Під'єднано R5 вивід 1 до DAC.
+Додано R6 (посадкове місце 'Resistor_SMD:R_0603_1608Metric').
+Позначення REF** змінено на R6.
+Під'єднано Q2 вивід 2 до VCC.
+Під'єднано J2 вивід 4 до Net-(J2-Pin_4).
+Звʼязок додано FEEDBACK.
+Під'єднано J2 вивід 1 до FEEDBACK.
+Додано Q2 (посадкове місце 'Package_TO_SOT_THT:TO-220-3_Vertical').
+Позначення REF** змінено на Q2.
+Значення Q2 змінено з TO-220-3_Vertical на IRLZ44N.
+У символу Q2 змінилось посадкове місце з  на /4e5adbc5-8a08-4332-a9f8-49f24eaee678.
+Updated Q2 fields.
+Updated Q2 sheetname to '/'.
+Updated Q2 sheetfile to '111test-task.kicad_sch'.
+Updated Q2 footprint filters to 'TO?220*'.
+Updated R1 footprint filters to 'R_*'.
+Звʼязок додано SENSING.
+Під'єднано Q2 вивід 3 до SENSING.
+Звʼязок додано Net-(Q2-G).
+Під'єднано Q2 вивід 1 до Net-(Q2-G).
+Додано R1 (посадкове місце 'Resistor_SMD:R_0603_1608Metric').
+Позначення REF** змінено на R1.
+Значення R1 змінено з R_0603_1608Metric на 10k.
+У символу R1 змінилось посадкове місце з  на /2aa68711-9f8f-4349-bea6-6a7b33cc8a0c.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to '111test-task.kicad_sch'.
+Помилка: Не вдалося додати R7 (не призначене посадкове місце).
+Помилка: Не вдалося додати R2 (не призначене посадкове місце).
+
+
+Інформація: Всього попереджень: 0, помилок: 2.
